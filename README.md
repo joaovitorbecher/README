@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Joao Vitor, tenho 16 anos, estou no 2º ano do ensino médio e estou cursando técnico em desenvolvimento de sistemas!
+- 👋 Olá, me chamo Joao Vitor e tenho 16 anos, estou no 2º ano do ensino médio e estou cursando técnico em desenvolvimento de sistemas!
 - 🚀 Estou me tornando Dev FullStack!
 - 🌱 Agora estou aprendendo HTML, CSS, JAVASCRIPT, PHP e MySQL
 - 📁 Logo mais estarei criando projetos e participando de projetos de codigo aberto
